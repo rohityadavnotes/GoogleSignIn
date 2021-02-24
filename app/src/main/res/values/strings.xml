@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google SignIn</string>
+
+    <!-- TODO(user): replace with your real server client ID -->
+    <!-- Server Client ID. This should be a valid Web OAuth 2.0 Client ID obtained from https://console.developers.google.com/ -->
+    <string name="server_client_id">620568248625-gdeahgar1ea5d4oo424ittreu9ok6l2f.apps.googleusercontent.com</string>
+</resources>
